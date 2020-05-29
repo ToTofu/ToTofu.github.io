@@ -5,10 +5,10 @@
       <p><b>可乐</b></p>
       <p><b>可乐</b></p>
       <p><b>可乐</b></p>
-      <p><b><a href="https://blog.csdn.net/ToToTofu">英文版</a></b></p>
+      <p><b><a href="https://blog.csdn.net/ToToTofu">个人博客</a></b></p>
     </td>
     <td width="25%">
-      <img src="/webwxgetmsgimg.jpg" width="100%">      % 插入证件照代码 
+      <img src="/webwxgetmsgimg.jpg" width="100%">      % 肥仔快乐水 
     </td>
   </tr>
 </table>
