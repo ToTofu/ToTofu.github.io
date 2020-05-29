@@ -8,7 +8,7 @@
       <p><b><a href="https://blog.csdn.net/ToToTofu">个人博客</a></b></p>
     </td>
     <td width="25%">
-      <img src="/webwxgetmsgimg.jpg" width="100%">       肥仔快乐水 
+      <img src="/webwxgetmsgimg.jpg" width="100%">       肥宅快乐水 
     </td>
   </tr>
 </table>
